@@ -179,7 +179,7 @@ p {
   padding-bottom: 50px;
 }
 
-.main::after {
+.main .hero::after {
   content: "";
   position: absolute;
   right: 0;
